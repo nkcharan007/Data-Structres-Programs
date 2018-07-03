@@ -95,27 +95,4 @@ while(choice!=4);
 
 
 
-/*  OUT PUT */
-		1.push
-		2.pop
-		3.display
-		4.exit
- enter your choice1
 
-		1.push
-		2.pop
-		3.display
-		4.exit
- enter your choice2
-
-		1.push
-		2.pop
-		3.display
-		4.exit
- enter your choice3
-
-		1.push
-		2.pop
-		3.display
-		4.exit
- enter your choice4
